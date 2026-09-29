@@ -36,7 +36,7 @@ Use a **line chart** if you want to follow how each channel changes over time. U
 
 The input is the same. The question changes the chart.
 
-![Line chart of fictional monthly online and store sales](images/line-chart.png)
+![Line chart of fictional monthly online and store sales](./line-chart.png)
 
 ## Example 2: Shares of one budget
 
@@ -50,7 +50,7 @@ Events,160
 
 This fictional budget totals 1,000. A **pie or donut chart** can show the four shares: 42%, 24%, 18%, and 16%. If your reader needs to compare two nearly equal categories precisely, use bars instead.
 
-![Bar chart comparing the four fictional channel budgets](images/bar-chart.png)
+![Bar chart comparing the four fictional channel budgets](./bar-chart.png)
 
 A pie chart only works when the categories are parts of the *same whole*. Independent conversion rates, for example, should not be added together to make a pie.
 
@@ -68,7 +68,7 @@ F,300,31
 
 Choose a **scatter plot** to inspect ad spend against sign-ups, with one point per campaign. You can also calculate a **correlation matrix** from the two numeric columns, but a correlation coefficient does not establish causation. With only six fictional observations, this example demonstrates the workflow—not a reliable marketing conclusion.
 
-![Scatter plot of fictional campaign ad spend and sign-ups](images/scatter-plot.png)
+![Scatter plot of fictional campaign ad spend and sign-ups](./scatter-plot.png)
 
 ## From table to export
 
